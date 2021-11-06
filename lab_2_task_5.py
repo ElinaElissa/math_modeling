@@ -7,7 +7,7 @@ if (b != 0) and (a % b == 0):
 elif (b != 0) and (a % b != 0):
   d = a % b
   c = a // b
-  print('a не делится на b')
+  print('a  нацело не делится на b')
   print('остаток: ', d)
   print('частное: ', c)
 else:
